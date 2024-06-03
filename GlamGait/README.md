@@ -1,2 +1,0 @@
-# GlamGait
-Footwear Shopping Site
